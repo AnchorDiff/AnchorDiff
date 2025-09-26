@@ -1,9 +1,12 @@
 # AnchorDiff User Guide
 
 1️⃣ Data Preparation
-Download dataset and organize directory:
+Download dataset and environment:
 
-url:
+url:  https://pan.baidu.com/s/1eetuDUPcX1xk2FhBNH_wGA?pwd=xpki 
+
+PWD: xpki 
+
 
 ```
 /
